@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**AP3X0034/AP3X0034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Nirmit, a software developer.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
